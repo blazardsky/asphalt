@@ -1,0 +1,14 @@
+{
+    "article": {
+        "article": "article, .post",
+        "title": "h1, h2, h3",
+        "content": "p",
+        "content_tags": ["p","h2","h3","h4","h5","h6","ul","ol","li", "div", "span", "blockquote"],
+        "date": "time, .date, .published"
+    },
+    "blog": {
+        "container": "main",
+        "card": "article.card",
+        "link": "a"
+    }
+}

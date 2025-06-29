@@ -1,0 +1,11 @@
+{
+    "single": {
+        "title": "h1.gh-article-title",
+        "content": "section.gh-content.gh-canvas.is-body",
+        "content_tags": ["p","h2","h3","h4","h5","h6","ul","ol","li", "span", "blockquote", "div", "a"],
+        "date": "time.gh-article-meta-date"
+    },
+    "blog": {
+        "link": ".gh-feed a.gh-card-link"
+    }
+}
