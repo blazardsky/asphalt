@@ -29,7 +29,7 @@ def main():
     for link in articles_links:
         articles.append( extract_article_data( link, selectors ) )
 
-    filename = f"{url.replace('/', '_')}.csv"
+    filename = f"{url.replace('https://','').replace('/', '_')}.csv"
     print(f"Found {len(articles)} articles")
     save_to_csv(articles, filename)
 
