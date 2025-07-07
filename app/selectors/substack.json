@@ -1,0 +1,11 @@
+{
+    "single": {
+        "title": "h1",
+        "content": "article > div:nth-child(3)",
+        "content_tags": ["p","h1","h2","h3","h4","h5","h6","ul","ol","li", "span", "blockquote", "a", "div"],
+        "date": ""
+    },
+    "blog": {
+        "link": ".reader2-post-container > a"
+    }
+}

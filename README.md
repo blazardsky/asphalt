@@ -1,12 +1,12 @@
 # ASPHALT
-Asphalt is a web scraper for aggragating articles from a blog or news website and use it for context in various AI.
+Asphalt is a web scraper for aggregating articles from a blog or news website and use it for context in various AI.
 
 ## Articles Scraper For AI Training
 Created by: Niccolò Agnoletti
 License: GPL v2.0 or greater
 Language: Python 3
 Version: 0.1a
-System: MacOs
+System: MacOS
 
 
 ## GUIDE

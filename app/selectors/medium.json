@@ -1,0 +1,11 @@
+{
+    "single": {
+        "title": "h1[data-testid='storyTitle']",
+        "content": "article > div > div > section div:has(figure)",
+        "content_tags": ["p","h1","h2","h3","h4","h5","h6","ul","ol","li", "span", "blockquote", "a"],
+        "date": "span[data-testid='storyPublishDate']"
+    },
+    "blog": {
+        "link": "main article div[role='link'] > div > div:nth-child(2) > div > div > a"
+    }
+}

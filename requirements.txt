@@ -1,5 +1,7 @@
 requests 
-beautifulsoup4 
+beautifulsoup4
+bs4
 pandas 
 selenium 
 webdriver-manager
+setuptools

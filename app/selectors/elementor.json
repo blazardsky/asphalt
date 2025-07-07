@@ -1,0 +1,11 @@
+{
+    "single": {
+        "title": "[data-elementor-type='single-post'] .elementor-heading-title",
+        "content": "div.elementor-widget-theme-post-content",
+        "content_tags": ["p","h2","h3","h4","h5","h6","ul","ol","li", "span", "blockquote", "div", "a", "img"],
+        "date": "time"
+    },
+    "blog": {
+        "link": ".elementor-loop-container > .e-loop-item a"
+    }
+}
